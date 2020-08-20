@@ -21,7 +21,7 @@ class Bow:
         lines = open(self.filename, 'r').readlines()
         punct = ['.', ',', '!', ';', ]
         for line in lines:
-            if mode == 'en':
+            if self.mode == 'en':
                 line = re.sub('[^\w\s]', '', line)
             else:
                 line = re.sub('[^\w\sâêîôāēīō]', '', line)
