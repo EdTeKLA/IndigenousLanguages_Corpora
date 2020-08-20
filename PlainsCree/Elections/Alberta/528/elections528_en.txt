@@ -1,0 +1,6 @@
+Mark an X in the circle next to the candidate of your choice.
+Return the marked ballot to the election officer who provided the ballot to you.
+Mark one circle only – 
+a ballot marked in more than one circle will not be counted.
+A ballot spoiled or marked in error may be exchanged for another.
+A friend may assist you with translation services, if you wish.
