@@ -48,7 +48,9 @@ class Bow:
         Print bow with a word and its count per line
         '''
         f = open(self.output_filename, 'w')
-        for (word, cnt) in self.bow.items():
+        alpha_order = sorted(self.bow.keys(), key=str.lower)
+        for word in alpha_order:
+            cnt = self.bow[word]
             f.write(word + ' ' + str(cnt) + '\n')
         f.close()
         return
