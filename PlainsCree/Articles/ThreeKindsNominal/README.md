@@ -2,7 +2,7 @@
 
 Text is fully from this paper.
 
-Mühlbauer, Jeff. "Three kinds of nominals in Nehiyawewin." Proceedings from the. 2004.
+Mühlbauer, J. (2004). Three kinds of nominals in Nehiyawewin. In Proceedings from the.
 
 @inproceedings{muhlbauer2004three,
   title={Three kinds of nominals in Nehiyawewin},
