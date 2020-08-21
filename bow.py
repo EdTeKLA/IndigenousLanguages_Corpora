@@ -48,8 +48,8 @@ class Bow:
         Print bow with a word and its count per line
         '''
         f = open(self.output_filename, 'w')
-        for (word, cnt) in self.bow:
-            f.write(word + ' ' + cnt + '\n')
+        for (word, cnt) in self.bow.items():
+            f.write(word + ' ' + str(cnt) + '\n')
         f.close()
         return
 
