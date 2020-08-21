@@ -1,0 +1,12 @@
+FOODS
+What are you going to eat?
+Im going to eat fish roasted on a stick
+What are you going to eat?
+I’m going to eat eggs and bacon.
+What are you going to eat?
+I’m going to eat turkey.
+I’m going to eat pies
+I’m going to eat bannock.
+I’m going to eat wild rice soup.
+I’m going to eat bannock along with crushed choke-cherries.
+I’m going to eat fish, dried fish fillets.
