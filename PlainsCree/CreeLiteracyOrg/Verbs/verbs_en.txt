@@ -1,9 +1,20 @@
-s/he jumps
-s/he reads
-s/he eats
-s/he naps
-s/he combs his/her own hair
-s/he sits down
-s/he waves
-s/he jumps
-s/he tells a story
+she jumps
+he jumps
+she reads
+he reads
+she eats
+he eats
+she naps
+he naps
+she combs his own hair
+she combs her own hair
+he combs his own hair
+he combs her own hair
+she sits down
+he sits down
+she waves
+he waves
+she jumps
+he jumps
+she tells a story
+he tells a story
