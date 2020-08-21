@@ -1,6 +1,6 @@
 # nêhiyawêwin katawasisin: THE PLAINS CREE LANGUAGE IS BEAUTIFUL
 
-This text if fully from the paper cited below.
+Text is fully from the paper cited below.
 
 Muehlbauer, J. (2011). Nêhiyawêwin katawasisin: THE PLAINS CREE LANGUAGE IS BEAUTIFUL. The Canadian Journal of Native Studies, 31(1), 73-95. Retrieved from https://login.ezproxy.library.ualberta.ca/login?url=https://search-proquest-com.login.ezproxy.library.ualberta.ca/docview/1002660757?accountid=14474
 
