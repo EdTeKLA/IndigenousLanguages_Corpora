@@ -8,11 +8,11 @@ class Preprocess:
         self.output_filename = output_filename
 
         if mode == "cr":
-            self.new_lines = preprocessCree()
-            writeResult()
+            self.new_lines = self.preprocessCree()
+            self.writeResult()
         else:
-            self.new_lines = preprocessEn()
-            writeResult()
+            self.new_lines = self.preprocessEn()
+            self.writeResult()
 
         return
         
@@ -27,16 +27,22 @@ class Preprocess:
             line = line.lower()
 
             # Convert all accents to hat accents instead of bar
-            line = re.sub(r"ā", r"â", line)
-            line = re.sub(r"ē", r"ê", line)
-            line = re.sub(r"ī", r"î", line)
-            line = re.sub(r"ō", r"ô", line)
+            line = re.sub(r"ā", r"â", line)
+            line = re.sub(r"ē", r"ê", line)
+            line = re.sub(r"ī", r"î", line)
+            line = re.sub(r"ō", r"ô", line)
 
-            # Put a space before punctuation
-            line = re.sub(r"([':,!.?])", r" \1", line)
+            line = re.sub(r"á", r"â", line)
+            line = re.sub(r"é", r"ê", line)
+            line = re.sub(r"í", r"î", line)
+            line = re.sub(r"ó", r"ô", line)
+
 
             # Remove ellipsis
-            line = re.sub(r'(\.){2}}', '', line)
+            line = re.sub(r'(\.){2}', '', line)
+
+            # Put a space before punctuation
+            line = re.sub(r"(['‘’:,!.?])", r" \1", line)
             
             # Remove double quotes
             line = re.sub(r'“', '', line)  
@@ -44,10 +50,10 @@ class Preprocess:
             line = re.sub(r'"', '', line)  
 
             # If vowel on either side of the hyphen, insert an 'h'
-            line = re.sub(r'([aioâêîô])\s*[‐-]\s*([aioâêîô])', r'\1h\2', line)
+            line = re.sub(r'([aioâêîô])\s*[-—]\s*([aioâêîô])', r'\1h\2', line)
 
             # Remove hyphen and replace with nothing because two parts should be together
-            line = re.sub(r'\s*[‐—]\s*', r'', line)
+            line = re.sub(r'\s*[-—]\s*', r'', line)
 
             # Remove numbers
             line = re.sub(r'[0-9]', '', line)
@@ -56,7 +62,7 @@ class Preprocess:
             line = re.sub(r'\s+', r' ', line)
 
             # Remove anything other than essential characters
-            line = re.sub(r"[^a-zA-Zâêîô.!?:,']+", r' ', line)
+            line = re.sub(r"[^a-zA-Zâêîô.!?:,'‘’]+", r' ', line)
             new_lines.append(line)
 
         return new_lines
@@ -71,11 +77,11 @@ class Preprocess:
             # Lowercase everything
             line = line.lower()
 
-            # Put spaces before punctuation
-            line = re.sub(r"([':,!.?])", r" \1", line)
-
             # Remove ellipsis
-            line = re.sub(r'(\.){2}}', '', line)
+            line = re.sub(r'(\.){2,}', '', line)
+            
+            # Put spaces before punctuation
+            line = re.sub(r"(['‘’:,!.?])", r" \1", line)         
 
             # Remove double quotes
             line = re.sub(r'“', '', line)  
@@ -92,7 +98,7 @@ class Preprocess:
             line = re.sub(r'\s+', r' ', line)
 
             # Remove anything other than essential characters
-            line = re.sub(r"[^a-zA-Z.!?:,']+", r' ', line)
+            line = re.sub(r"[^a-zA-Z.!?:,'‘’]+", r' ', line)
             new_lines.append(line)
 
         return new_lines
