@@ -13,6 +13,7 @@ These files denote the words that occur in the text followed by their count, one
 # License
 
 This is based on an Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)
+
 https://creativecommons.org/licenses/by-nc-sa/3.0/
 
 It modifies this license to maintain the sovereignty and control of the content creators over the media that they have agreed to share.
