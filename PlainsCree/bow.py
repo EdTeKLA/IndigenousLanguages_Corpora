@@ -19,12 +19,12 @@ class Bow:
         words = []
 
         lines = open(self.filename, 'r').readlines()
-        punct = ['.', ',', '!', ';', ]
+        #punct = ['.', ',', '!', ';', ]
         for line in lines:
             if self.mode == 'en':
                 line = re.sub('[^\w\s]', '', line)
-            else:
-                line = re.sub('[^\w\sâêîôāēīō]', '', line)
+            elif self.mode == 'cr':
+                line = re.sub('[^\w\sâêîôāēīō-]', '', line)
             parts = line.split()
             words.extend(parts)
         return words
