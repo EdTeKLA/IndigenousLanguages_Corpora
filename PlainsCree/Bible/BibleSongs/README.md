@@ -7,3 +7,4 @@ English Text can be found at:
     Ruth: https://www.biblegateway.com/passage/?search=Ruth+1&version=GNT 
     Mark: https://www.biblegateway.com/passage/?search=Mark+1&version=GNT  
 
+# License
