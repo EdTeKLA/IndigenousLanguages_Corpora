@@ -4,8 +4,8 @@ Text is fully from Cree Literacy Network which can be found at https://creeliter
 
 # License
 
-This is based on an Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)
-https://creativecommons.org/licenses/by-nc-sa/3.0/
+This is based on an Attribution-NonCommercial-NoDeratives 4.0 International (CC BY-NC-ND-4.0)
+https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 It modifies this license to maintain the sovereignty and control of the content creators over the media that they have agreed to share.
 
