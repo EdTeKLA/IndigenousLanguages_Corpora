@@ -8,7 +8,8 @@ Can I come with you?
 on both sides
 under the snow
 under
-She is skinny. (He is skinny.)
+She is skinny.
+He is skinny.
 There's a meeting.
 Erase it!
 song
@@ -20,7 +21,8 @@ my feet
 You see me.
 I want it.
 I work at the band office.
-It annoys me! (It angers me!)
+It annoys me!
+It angers me!
 Do it again!
 Who's this?
 I'm leaving, by plane.
@@ -75,7 +77,7 @@ I work at the school.
 I don't want to eat.
 It's nice.
 Is he back yet?
-Which one? (inanimate)
+Which one? 
 next autumn
 at the shore
 There's a feast.
@@ -88,11 +90,14 @@ He sees a woman.
 You see a child.
 What's that?
 I want to see him or her.
-his (her) pen or pencil
+her pen
+his pen
+her pencil
+his pencil
 Close the door!
 light
 I'll come back tomorrow.
-We (you and I) see a young man.
+We see a young man.
 It's spring.
 Don't eat!
 shoes
@@ -101,7 +106,8 @@ I'm nervous.
 soon
 Where do you work?
 my eyes
-It's almost lunchtime (noon).
+It's almost lunchtime.
+It's almost noon.
 underwater
 Where is the church?
 There's a wedding.
@@ -119,7 +125,8 @@ my leg
 in the middle
 Let's go fishing!
 along the shore
-He annoys me. (She annoys me.)
+He annoys me.
+She annoys me.
 Do it well!
 upstairs
 I'm setting a net.
@@ -141,7 +148,8 @@ Try it!
 Mother! Mommy!
 You see us.
 Monday
-What do you want (to buy)?
+What do you want?
+What do you want to buy?
 My son!
 one hundred
 I want to see you.
@@ -155,14 +163,15 @@ your book
 My daughter!
 I don't know.
 tomorrow
-I'm trapping. (I'm setting my traps.)
+I'm trapping. 
+I'm setting my traps.
 story
 Are you hungry?
 Go out!
 I'm a teacher.
-We (you and I) see a young woman.
+We see a young woman.
 Where are you going?
-I want to see it. (inanimate)
+I want to see it.
 I'll check my net.
 store
 This is my younger brother or sister.
@@ -193,8 +202,10 @@ long ago
 Don't eat this meat!
 It's very nice.
 Saturday
-He is tall. (She is tall.)
-in a line or (in) a row
+He is tall.
+She is tall.
+in a line
+in a row
 I'm setting snares.
 Open it!
 Eat!
@@ -209,7 +220,7 @@ Give me a cup!
 This is my grandfather.
 What about you, what's your name?
 She went out.
-We (but not you) see a girl.
+We see a girl.
 the day after tomorrow
 paper
 I am... (Alex).
@@ -267,7 +278,7 @@ He sees a man.
 I'm full.
 There's a pow-wow (festival, sports day).
 Do you want me to help you?
-I see you (singular).
+I see you.
 Are you going now?
 Read it!
 east
@@ -296,7 +307,7 @@ all around
 It's cold.
 Thank you.
 Where does it hurt?
-Which ones? (inanimate)
+Which ones?
 My feet are cold.
 I'll go to bed.
 Sunday
@@ -337,7 +348,7 @@ All of you, listen to me!
 Nothing in particular.
 My grandchild! (male or female)
 I work at the hospital (health clinic).
-Where is the...? (inanimate)
+Where is the...?
 Grandmother!
 I'm leaving, by canoe.
 Let's eat!
@@ -358,7 +369,8 @@ my head
 I am from... (Ottawa).
 What about you?
 I have money.
-He is fat. (She is fat.)
+He is fat.
+She is fat.
 My child!
 my neck
 in the bush
@@ -377,7 +389,8 @@ my hair
 It's lunchtime (noon) now.
 Is he here?
 Thursday
-She is short. (He is short.)
+She is short.
+He is short.
 These are my children.
 Younger brother or sister!
 my hand
@@ -393,7 +406,8 @@ Are you going to bed?
 on this side of it
 This is my older sister.
 Once more, one more time!
-He is big. (She is big.)
+He is big.
+She is big.
 Do you want anything?
 Do you want (to buy) it?
 She's trapping for mink.
