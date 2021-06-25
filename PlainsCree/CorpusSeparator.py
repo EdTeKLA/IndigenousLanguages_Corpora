@@ -10,7 +10,10 @@ for line in f:
     
     # Lowercase everything
     line = line.lower()
-  
+    
+    # Remove ellipsis
+    #line = re.sub(r'(\.){2,}', '', line)
+   
     #Change Macrons to match
     line = re.sub(r"ā", r"â", line)
     line = re.sub(r"ē", r"ê", line)
@@ -22,19 +25,21 @@ for line in f:
     line = re.sub(r"í", r"î", line)
     line = re.sub(r"ó", r"ô", line)
 
-    #Remove Dashes (-)
+    #Remove Dashes(-)
     line = re.sub(r'\s*[-—]\s*', r'', line)
 
-    # Remove numbers
+    #Remove numbers
     line = re.sub(r'[0-9]', '', line)
 
-    # Remove non-word characters
+    #Remove non-word characters
     line = re.sub(r"\W", " ",line, flags=re.I)
 
-    # Remove extra spaces
+    #Remove extra spaces
     line = re.sub(r'\s+', r' ', line)
     
-    #new_lines.append(line)
+    #Remove last extra * character
+    line = line.rstrip(line[-1])
+   
     final_str = ''
     words = line.split(' ')
 
@@ -42,6 +47,4 @@ for line in f:
     for word in words:
         final_str += ' '.join(word)
         final_str += ' * '
-    
-    #print lower case
     print(final_str)
