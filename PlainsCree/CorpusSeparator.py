@@ -10,9 +10,6 @@ for line in f:
     
     # Lowercase everything
     line = line.lower()
-    
-    # Remove ellipsis
-    #line = re.sub(r'(\.){2,}', '', line)
    
     #Change Macrons to match
     line = re.sub(r"ā", r"â", line)
