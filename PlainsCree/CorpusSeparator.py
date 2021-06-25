@@ -22,9 +22,12 @@ for line in f:
     line = re.sub(r"í", r"î", line)
     line = re.sub(r"ó", r"ô", line)
 
-    #Remove Dashes(-)
+    #Remove Dashes (-)
     line = re.sub(r'\s*[-—]\s*', r'', line)
-
+   
+    # Remove hyphen and replace with nothing because two parts should be together
+    line = re.sub(r'\s*[-—]\s*', r'', line)
+   
     #Remove numbers
     line = re.sub(r'[0-9]', '', line)
 
@@ -34,9 +37,6 @@ for line in f:
     #Remove extra spaces
     line = re.sub(r'\s+', r' ', line)
     
-    #Remove last extra * character
-    line = line.rstrip(line[-1])
-   
     final_str = ''
     words = line.split(' ')
 
@@ -44,4 +44,5 @@ for line in f:
     for word in words:
         final_str += ' '.join(word)
         final_str += ' * '
+    
     print(final_str)
