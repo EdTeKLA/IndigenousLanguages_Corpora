@@ -32,7 +32,7 @@ for line in f:
     line = re.sub(r'[0-9]', '', line)
 
     #Remove non-word characters
-    line = re.sub(r"\W", " ",line, flags=re.I)
+    #line = re.sub(r"\W", " ",line, flags=re.I)
 
     #Remove extra spaces
     line = re.sub(r'\s+', r' ', line)
