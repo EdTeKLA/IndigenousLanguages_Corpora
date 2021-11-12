@@ -292,7 +292,7 @@ asenikewin
 senipânitâpiskâkan
 watapiwinipewinis
 capiskakaneses
-tipiyaw i.e.: tipiyaw nîcisân
+tipiyaw i .e . : tipiyaw nîcisân
 sikopocikan
 isichikan
 okimahkân
@@ -489,7 +489,7 @@ peyakopiponiwesis
 ayahchiyiniw
 yeyekisitan
 mikwâskonew
-wihcekâ€™tâpânâsk
+wihcekâ tâpânâsk
 tastawasakay
 astotin
 atisikan
@@ -1034,7 +1034,7 @@ weyakanikamik
 wistihkan
 wiyasiwatchikewin
 kinokwayaw
-kihci-môhkomân
+kihcimôhkomân
 pâkipayowin
 tâwikintowin
 wasaw
@@ -1129,7 +1129,7 @@ nayachikan
 nakiwin
 miyo isichikewin
 mistowan
-Mistikosow
+mistikosow
 mistikonapew
 mistihkoman
 misisahk
@@ -1306,9 +1306,9 @@ waskotepichikan
 winasakatchip
 wiyasiwewikamik
 yohtenikan
-nêhiyaw-ayisiyiniw
+nêhiyawayisiyiniw
 misihtak
-kanâci-wâskahikan
+kanâciwâskahikan
 yâhkasiniy
 pahkohkwehonis
 papakihtak
@@ -1631,7 +1631,7 @@ maskichichiy
 kaskikwasowinapiskos
 ayoskanahtik
 asiniy
-Asinipwat
+asinipwat
 asawapiwkamik
 peyakwapisk
 piskihchikamik
@@ -1761,7 +1761,7 @@ manahikakan
 kiskinwahamakewi kamik
 kinweses kamik
 kayases
-chi?
+chi ?
 atahk
 aniskotapan
 paskewihtowin
@@ -1923,7 +1923,7 @@ sawesk
 wanayihkowin
 wipastim
 nîmiwin
-mostoso-kwâskohtisîs
+mostosokwâskohtisîs
 cahkatinaw
 payipihtakahikan
 pâkahokowin
@@ -2049,7 +2049,7 @@ ciscemas
 kâsehkwehon
 makotowestikwan
 nôsehaya
-ayâsô-
+ayâsô
 kispewasiwewin
 kiciwasaw
 oskâpôskitew
@@ -2207,7 +2207,7 @@ aposis
 posiwinis
 sisopekahikakan
 soskwachiwewin
-pêyakw-âya
+pêyakwâya
 pasakwâpoy
 pîswepahkwesikan
 sîpihkwasâkay
@@ -2286,7 +2286,7 @@ ayimihtowin
 sohkeyihtamowin
 weyakanis
 wahotêw
-nêhiyaw-iskwêw
+nêhiyawiskwêw
 pakitahwâwiyiniw
 pâstewâhtik
 piminawasowikamik
@@ -2316,7 +2316,7 @@ makwahikanis
 itahkamikan
 wiyasiwehkan
 osâwitâs
-mitâtahtomitanaw-maskimot
+mitâtahtomitanawmaskimot
 pihcipihkwân
 manitoskatask
 pîsweyekin
@@ -2539,7 +2539,7 @@ onatonikew
 kiyam
 pakipayiw
 kicikamiw
-mâyimitosÂ\xa0pl. mâyimitosak
+mâyimitosâ xapl . mâyimitosak
 mihcetomacwewes
 okwayaskwahiwew
 omôsahkinikew
@@ -2589,7 +2589,7 @@ pinipochikanis
 wiyinwâpisk
 sîkawâcowasikan
 omakohkew
-paskwâw\x19 mostos
+paskwâw x mostos
 pahpahkwecakahikesîs
 mestakaya
 ayotis
