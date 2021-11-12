@@ -1,10 +1,10 @@
-This is Silly Beaver
-Silly Beaver climbs.
-Silly Beaver runs.
-Silly Beaver swims.
-Silly Beaver jumps.
-Silly Beaver eats.
-Silly Beaver drinks water.
-Silly Beaver drinks juice.
-Silly Beaver drinks lemonade.
-Silly Beaver has to pee!
+this is silly beaver
+silly beaver climbs .
+silly beaver runs .
+silly beaver swims .
+silly beaver jumps .
+silly beaver eats .
+silly beaver drinks water .
+silly beaver drinks juice .
+silly beaver drinks lemonade .
+silly beaver has to pee !
