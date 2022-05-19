@@ -39,7 +39,7 @@ You do not have to comply with the license for elements of the material in the p
 No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
 # Citation 
-'''
+```
 @inproceedings{teodorescu-etal-2022-cree,
     title = "{C}ree Corpus: A Collection of n{\^e}hiyaw{\^e}win Resources",
     author = "Teodorescu, Daniela  and
@@ -56,4 +56,4 @@ No warranties are given. The license may not give you all of the permissions nec
     pages = "6354--6364",
     abstract = "Plains Cree (n{\^e}hiyaw{\^e}win) is an Indigenous language that is spoken in Canada and the USA. It is the most widely spoken dialect of Cree and a morphologically complex language that is polysynthetic, highly inflective, and agglutinative. It is an extremely low resource language, with no existing corpus that is both available and prepared for supporting the development of language technologies. To support n{\^e}hiyaw{\^e}win revitalization and preservation, we developed a corpus covering diverse genres, time periods, and texts for a variety of intended audiences. The data has been verified and cleaned; it is ready for use in developing language technologies for n{\^e}hiyaw{\^e}win. The corpus includes the corresponding English phrases or audio files where available. We demonstrate the utility of the corpus through its community use and its use to build language technologies that can provide the types of support that community members have expressed are desirable. The corpus is available for public use.",
 }
-'''
+```
